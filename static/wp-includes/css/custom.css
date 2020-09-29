@@ -359,6 +359,10 @@ div.dynamic_link_element:hover {
   border-radius: 1px;
 }
 
+.wrapper {
+  height:100%;
+}
+
 .center-button {
   margin: auto;
 }

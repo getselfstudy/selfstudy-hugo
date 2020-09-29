@@ -1,3 +1,4 @@
 baseURL = "https://alpha.selfstudy.ai"
 languageCode = "en-us"
 title = "Self Study"
+theme = "marketing-site"

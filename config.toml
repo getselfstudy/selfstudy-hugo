@@ -1,3 +1,4 @@
 baseURL = "https://selfstudy.ai"
 languageCode = "en-us"
 title = "Self Study"
+theme = "marketing-site"
